@@ -45,7 +45,7 @@ I'm an aspiring Computer Science student passionate about using technology to so
 ---
 
 <!-- Optional: Fun fact or quote -->
-> "Consistency is the key“ 
+> "Consistency is the key.“ 
 
 <!-- Optional: Visitor badge -->
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=syedahmedkhaderi)
