@@ -1,16 +1,13 @@
-<h1 align="left">Hi!<br> I'm Syed Ahmed Khaderi &#128075</h1>
+<h1 align="left">Hi, I'm Syed Ahmed Khaderi &#128075</h1>
 <p align="left">
-  <b>Aspiring CS Engineer | Web Developer | Tech Enthusiast</b>
+  Aspiring CS Engineer | Web Developer | Tech Enthusiast
 </p>
 
 ---
 
 <h2>&#128204 About Me</h2>
 
-- I'm an aspiring Computer Science student passionate about **using technology to solve real-world problems**.
-- My interests include **software engineering**, **artificial intelligence**, **machine learning**, and **full-stack web development**.
-- I love building flexible solutions, learning through collaboration and creating real-world impactful projects.
-- I am Currently exploring **React**, **PostgreSQL**, and **ML** as I deepen my programming skills.
+I'm an aspiring Computer Science student passionate about **using technology to solve real-world problems**. My interests include **software engineering**, **artificial intelligence**, **machine learning**, and **full-stack web development**. I love building flexible solutions, learning through collaboration and creating real-world impactful projects. I am Currently exploring **React**, **PostgreSQL**, and **ML** as I deepen my programming skills.
 
 ---
 
@@ -39,8 +36,11 @@
 
 <h2>&#127760 Let's Connect!</h2>
 
-- <p>&#128279; <a href="https://www.linkedin.com/in/syedahmedkhaderi/">Linkedin</a></p>
-- <p>&#128187 <a href='mailto:syedahmedkhaderi@gmail.com'>syedahmedkhaderi@gmail.com</a></p>  <!-- Replace with your email or preferred contact -->
+<ul style="line-height:1.2; margin:0; padding:0;">
+  <li>&#128279; <a href="https://www.linkedin.com/in/syedahmedkhaderi/">Linkedin</a></li>
+  <li>&#128187; <a href="mailto:syedahmedkhaderi@gmail.com">syedahmedkhaderi@gmail.com</a></li>
+</ul>
+ <!-- Replace with your email or preferred contact -->
 
 ---
 
