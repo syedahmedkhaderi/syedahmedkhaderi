@@ -5,7 +5,7 @@
 
 ---
 
-<p>&#128204</p>About Me
+<h2>&#128204 About Me</h2>
 
 - I'm an aspiring Computer Science student passionate about **using technology to solve real-world problems**.
 - My interests include **software engineering**, **artificial intelligence**, **machine learning**, and **full-stack web development**.
@@ -14,31 +14,32 @@
 
 ---
 
-<p>&#128187</p>Tech Stack
+<h2>&#128187 Tech Stack</h2>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
-![Version Control](https://img.shields.io/badge/-Version%20Control-black?style=flat-square&logo=git)
-![Warp]([https://img.shields.io/badge/-Warp-black?style=flat-square&logo=warp](https://img.shields.io/badge/Warp-platform-0A2342?style=for-the-badge&logo=rocket&logoColor=white))
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=000000)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=000000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=000000)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white&labelColor=000000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=000000)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=000000)
+![Version Control](https://img.shields.io/badge/-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white&labelColor=000000)
+![Warp](https://img.shields.io/badge/-Warp-0A2342?style=flat-square&logo=rocket&logoColor=white&labelColor=000000)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=000000)
+
 
 
 <!-- Add more as you learn them -->
 
 ---
 
-### ðŸ¤ Let's Connect!
+<h2>&#127760 Let's Connect!</h2>
 
 - <p>&#128279; <a href="https://www.linkedin.com/in/syedahmedkhaderi/">Linkedin</a></p>
-- <p>&#128187 reach me: syedahmedkhaderi@gmail.com</p>  <!-- Replace with your email or preferred contact -->
+- <p>&#128187 <a href='mailto:syedahmedkhaderi@gmail.com'>syedahmedkhaderi@gmail.com</a></p>  <!-- Replace with your email or preferred contact -->
 
 ---
 
