@@ -1,5 +1,5 @@
 <!-- Banner or profile image (optional) -->
-<img src="./profile.png" alt="Banner" /> 
+<img src="./profile.jpg" alt="Banner" style='border-radius:50%'/> 
 
 <h1 align="center">Hi! I'm Syed Ahmed Khaderi &#128075</h1>
 <p align="center">
