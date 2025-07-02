@@ -6,9 +6,9 @@
 ---
 
 <h2>&#128204 About Me</h2>
-
-I'm an aspiring Computer Science student passionate about **using technology to solve real-world problems**. My interests include **software engineering**, **artificial intelligence**, **machine learning**, and **full-stack web development**. I love building flexible solutions, learning through collaboration and creating real-world impactful projects. I am Currently exploring **React**, **PostgreSQL**, and **ML** as I deepen my programming skills.
-
+<p>
+I'm an aspiring Computer Science student passionate about using technology to solve real-world problems. My interests include software engineering, artificial intelligence, machine learning, and full-stack web development. I love building beautiful websites, flexible solutions, learning through collaboration and creating real-world impactful projects. I am currently exploring React, PostgreSQL, and ML as I deepen my programming skills.
+</p>
 ---
 
 <h2>&#128187 Tech Stack</h2>
