@@ -38,7 +38,7 @@ I'm an aspiring Computer Science student passionate about using technology to so
 <h2>&#127760 Let's Connect!</h2>
 
 <ul style="line-height:1.2; margin:0; padding:0;">
-  <li>&#128279; <a href="https://www.linkedin.com/in/syedahmedkhaderi/](https://www.linkedin.com/in/syed-ahmed-06b466389/">Linkedin</a></li>
+  <li>&#128279; <a href="https://www.linkedin.com/in/syed-ahmed-khaderi-06b466389/">Linkedin</a></li>
   <li>&#128187; <a href="mailto:syedahmedkhaderi@gmail.com">syedahmedkhaderi@gmail.com</a></li>
 </ul>
  <!-- Replace with your email or preferred contact -->
