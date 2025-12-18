@@ -1,13 +1,13 @@
 <h1 align="left">Hi, I'm Syed Ahmed Khaderi &#128075</h1>
 <p align="left">
-  Aspiring CS Engineer | Web Developer | Tech Enthusiast
+  SWE Fresher @ UDST | DevOps Engineer Intern @ Chorate AI | AI Research Assistant | Web Developer @ ACM Student Chapter UDST
 </p>
 
 ---
 
 <h2>&#128204 About Me</h2>
 <p>
-I'm an aspiring Computer Science student passionate about using technology to solve real-world problems. My interests include Cloud Computing, AI & ML, and Web Development. I love building beautiful websites, flexible solutions, learning through collaboration and creating real-world impactful projects. I am currently exploring DSA and LLMs.
+I'm an aspiring Computer Science student passionate about using technology to solve real-world problems. My interests include Cloud Computing and AI & ML. I love building beautiful websites, flexible solutions, learning through collaboration and creating real-world impactful projects. I am currently exploring LLMs, RAG, DevOps Stack while actively practicing DSA.
 </p>
 
 ---
