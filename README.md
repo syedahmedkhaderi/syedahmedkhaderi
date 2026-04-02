@@ -1,18 +1,18 @@
-<h1 align="left">Hi, I'm Syed Ahmed Khaderi &#128075</h1>
+<h1 align="left">Hi, I'm Syed Ahmed Khaderi</h1>
 <p align="left">
   SWE Fresher @ UDST | DevOps Engineer Intern @ Chorate AI | AI Research Assistant | Web Developer @ ACM Student Chapter UDST
 </p>
 
 ---
 
-<h2>&#128204 About Me</h2>
+<h2>About Me</h2>
 <p>
 I'm an aspiring Computer Science student passionate about using technology to solve real-world problems. My interests include Cloud Computing and AI & ML. I love building beautiful websites, flexible solutions, learning through collaboration and creating real-world impactful projects. I am currently exploring LLMs, RAG, DevOps Stack while actively practicing DSA.
 </p>
 
 ---
 
-<h2>&#128187 Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,7 +34,7 @@ I'm an aspiring Computer Science student passionate about using technology to so
 
  <!-- other skills removed: github, warp, llm, figma, vm, virtual machine, mongodb, version control, rest api, RAG, LLM, etc-->
 
-<h2>&#127760 Let's Connect!</h2>
+<h2>Let's Connect!</h2>
 
 <ul style="line-height:1.2; margin:0; padding:0;">
   <li>&#128279; <a href="https://www.linkedin.com/in/syed-ahmed-khaderi-06b466389/">Linkedin</a></li>
