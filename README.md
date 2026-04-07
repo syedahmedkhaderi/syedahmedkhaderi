@@ -14,11 +14,11 @@ Beyond academics and work, I actively practice **data structures and algorithms,
 
 ### **Skills**
 
-**Languages**: Python, Java, JavaScript, SQL
-**Web Development**: HTML, CSS, Node.js, Express.js
-**Frameworks/Libraries**: NumPy, Pandas, Matplotlib, Seaborn, MySQL
-**AI/ML**: LLMs, RAG, Privacy Enhancement Techniques (PETs), Feature Engineering
-**Collaboration/Other**: Git/GitHub, Linear, LaTeX, Docker, Kubernetes, Virtual Machines
+- **Languages**: Python, Java, JavaScript, SQL
+- **Web Development**: HTML, CSS, Node.js, Express.js
+- **Frameworks/Libraries**: NumPy, Pandas, Matplotlib, Seaborn, MySQL
+- **AI/ML**: LLMs, RAG, Privacy Enhancement Techniques (PETs), Feature Engineering
+- **Collaboration/Other**: Git/GitHub, Linear, LaTeX, Docker, Kubernetes, Virtual Machines
 
 ---
 
