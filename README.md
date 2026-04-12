@@ -3,7 +3,7 @@
 First year **Software Engineering** student at UDST, Doha. I work at the intersection of AI research and engineering, focused on building systems that are not only theoretically sound but also practical and deployable. My current interests include privacy in large language models, sequence modeling, and scalable ML systems.
 
 * Recipient of the **Mitacs Globalink Research Award 2027** (up to $12,000 CAD) - AI privacy Research
-* **Research Assistant at UDST** - Working on 3 research papers
+* **Research Assistant at UDST** - Working on 3 AI research papers
 * **Former AI Engineer Intern at Be My Sense**
 * **Web Developer at ACM UDST Student Chapter**
 * **Former DevOps Engineer Intern at Chorate AI**
